@@ -2,12 +2,10 @@
 My name is João Walter and I'm from Brazil. Im a JR Dev that loves Javascript! 
 
 ### 🛠 Programming languages:
-
-    ### Working:
+    
+   ### Working:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Angular](https://angular.io/)
 
     ### Studying:
 <img src="{https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black}" />
