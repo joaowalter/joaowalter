@@ -4,7 +4,6 @@ My name is João Walter and I'm from Brazil. Im a JR Dev that loves Javascript!
 ### 🛠 Programming languages:
     
 ### Working:
-- <a href="https://nodejs.org/en/"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <a/>
 - <a href="https://pt-br.reactjs.org/"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <a/>
 
 ### Studying:
