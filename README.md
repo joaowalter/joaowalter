@@ -1,5 +1,5 @@
 ### Hi 👋
-My name is João Walter and I'm from Brazil. Im a Mid Level Dev that loves Javascript! 
+My name is João Walter and I'm from Brazil. Im a Mid/Senior Level Dev that loves Javascript! 
 
 ### 🛠 Programming languages:
     
